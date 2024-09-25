@@ -1,5 +1,5 @@
 {
-    "name": "calliope_einfuehrung_kompass",
+    "name": "calliope_einfuehrung_kompass_genauer",
     "description": "",
     "dependencies": {
         "core": "*",
